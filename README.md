@@ -3,3 +3,5 @@
 
 - Movavi Video Converter
 - Shana Encoder
+- capcut
+- HandBrake
